@@ -21,10 +21,6 @@ your output should include the formula as well as the solution for example somet
 
 5 + 4 = 9
 
-Your program should also implement a while loop so it keeps running, allowing the user to not have to re run your program each time
-
-they use it.
-
  
 
 *** bonus points:
